@@ -8,14 +8,14 @@ The challenge is to find the best 11 players who meet specific performance crite
 
 ## Player Selection Criteria
 
-### 1. Openers
+### 1. Top-Order
 - **Batting Average:** > 30
 - **Strike Rate:** > 140
 - **Innings Batted:** > 3
 - **Boundary Percentage:** > 50
 - **Batting Position:** < 4
 
-### 2. Anchors / Middle Order
+### 2. Middle Order
 - **Batting Average:** > 40
 - **Strike Rate:** > 125
 - **Innings Batted:** > 3
